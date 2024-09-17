@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+*$py.class
+output/
+
+
+configs/git_token.txt
+# code_base/configs/git_token.txt
